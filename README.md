@@ -59,21 +59,37 @@ Jarvis is an AI personal voice assistant service built using PyCharm. It can und
 ### Libraries required to be installed:
 	
 import ctypes
+
 import datetime
+
 import shutil
+
 import subprocess
+
 import time
+
 import webbrowser
+
 import os
+
 import pyttsx3
+
 import pywhatkit
+
 import requests
+
 import speech_recognition as sr
+
 import wikipedia
+
 import winshell as winshell
+
 import wolframalpha
+
 import json
+
 from ecapture import ecapture as ec
+
 from pyjokes import pyjokes
 
 
